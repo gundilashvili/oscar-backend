@@ -1,6 +1,6 @@
 const nodemailer = require('nodemailer');
 
-require('dotenv').config();
+// require('dotenv').config();
 
 async function sendEmail(apiKeys) {
     try {

@@ -1,0 +1,62 @@
+[
+    {
+      "title": "Founders Circle Pool",
+      "target_raise": "$300,000 (~2,143 SOL)",
+      "token_price": "$0.007",
+      "tokens_allocated": "42,857,143 tokens",
+      "discount_vs_public_($0.01)": "30% Discount",
+      "fast_mover_bonus": "+5% Tokens (First 20 Buyers)",
+      "min_buy": "$500",
+      "progress": 48,
+      "type": "private_pool",
+      "end-date": "2025-06-30T12:00"
+    },
+    {
+      "title": "Market Makers Syndicate",
+      "target_raise": "$500,000 (~3,571 SOL)",
+      "token_price": "$0.007",
+      "tokens_allocated": "71,428,571 tokens",
+      "discount_vs_public_($0.01)": "30% Discount",
+      "fast_mover_bonus": "+5% Tokens (Pool 50% Fill)",
+      "min_buy": "$1,000",
+      "progress": 29,
+      "type": "private_pool",
+      "end-date": "2025-06-30T12:00"
+    },
+    {
+      "title": "Genesis Council",
+      "target_raise": "$420,000 (~3,000 SOL)",
+      "token_price": "$0.007",
+      "tokens_allocated": "60,000,000 tokens",
+      "discount_vs_public_($0.01)": "30% Discount",
+      "fast_mover_bonus": "+7% Tokens (Buy > $10K)",
+      "min_buy": "$2,500",
+      "progress": 40,
+      "type": "private_pool",
+      "end-date": "2025-06-30T12:00"
+    },
+    {
+      "title": "Degens Moonshot League",
+      "target_raise": "$250,000 (~1,786 SOL)",
+      "token_price": "$0.007",
+      "tokens_allocated": "35,714,285 tokens",
+      "discount_vs_public_($0.01)": "30% Discount",
+      "fast_mover_bonus": "+5% Tokens (Refer 1 Buyer)",
+      "min_buy": "$250",
+      "progress": 62,
+      "type": "private_pool",
+      "end-date": "2025-06-30T12:00"
+    },
+    {
+      "title": "Blackpool Alpha Club",
+      "target_raise": "$1,000,000 (~7,143 SOL)",
+      "token_price": "$0.007",
+      "tokens_allocated": "142,857,143 tokens",
+      "discount_vs_public_($0.01)": "30% Discount",
+      "fast_mover_bonus": "+10% Tokens (Buy > $25K)",
+      "min_buy": "$25,000",
+      "progress": 22,
+      "type": "private_pool",
+      "end-date": "2025-06-30T12:00"
+    }
+  ]

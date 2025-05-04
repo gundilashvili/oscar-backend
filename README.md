@@ -1,0 +1,25 @@
+ ### Install Dependencies
+
+```bash
+npm install
+```
+
+### Configure environment variables:
+
+```bash
+JWT_SECRET=YOUR_JWT_SECRET
+MONGO_URI=YOUR_MONGO_URI
+SMTP_HOST=YOUR_SMTP_HOST
+SMTP_PORT=YOUR_SMTP_PORT
+SMTP_USERNAME=YOUR_SMTP_USERNAME
+SMTP_PASSWORD=YOUR_SMTP_PASSWORD
+EMAIL_FROM=YOUR_EMAIL_FROM
+EMAIL_TO=YOUR_EMAIL_TO
+```
+
+### Run
+
+```bash
+npm run start
+```
+ 

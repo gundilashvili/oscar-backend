@@ -5,6 +5,7 @@
         "token_symbol": "OSCARW1",
         "type": "insurance_pool",
         "category": "weekly_launch",
+        "holders": 47,
         "insurance_bonus_tiers": {
             "top_50": "5x $OSCAR",
             "top_100": "4x $OSCAR",
@@ -21,6 +22,7 @@
         "token_symbol": "OSCARW2",
         "type": "insurance_pool",
         "category": "weekly_launch",
+        "holders": 0,
         "insurance_bonus_tiers": {
             "top_50": "5x $OSCAR",
             "top_100": "4x $OSCAR",
@@ -37,6 +39,7 @@
         "token_symbol": "OSCARW3",
         "type": "insurance_pool",
         "category": "weekly_launch",
+        "holders": 0,
         "insurance_bonus_tiers": {
             "top_50": "5x $OSCAR",
             "top_100": "4x $OSCAR",
@@ -53,6 +56,7 @@
         "token_symbol": "OSCARW4",
         "type": "insurance_pool",
         "category": "weekly_launch",
+        "holders": 0,
         "insurance_bonus_tiers": {
             "top_50": "5x $OSCAR",
             "top_100": "4x $OSCAR",
@@ -69,6 +73,7 @@
         "token_symbol": "OSCARD1",
         "type": "insurance_pool",
         "category": "daily_launch",
+        "holders": 0,
         "insurance_bonus_tiers": {
             "top_50": "5x $OSCAR",
             "top_100": "4x $OSCAR",
@@ -85,6 +90,7 @@
         "token_symbol": "OSCARD2",
         "type": "insurance_pool",
         "category": "daily_launch",
+        "holders": 0,
         "insurance_bonus_tiers": {
             "top_50": "5x $OSCAR",
             "top_100": "4x $OSCAR",
@@ -101,6 +107,7 @@
         "token_symbol": "OSCARD3",
         "type": "insurance_pool",
         "category": "daily_launch",
+        "holders": 0,
         "insurance_bonus_tiers": {
             "top_50": "5x $OSCAR",
             "top_100": "4x $OSCAR",
@@ -117,6 +124,7 @@
         "token_symbol": "OSCARD4",
         "type": "insurance_pool",
         "category": "daily_launch",
+        "holders": 0,
         "insurance_bonus_tiers": {
             "top_50": "5x $OSCAR",
             "top_100": "4x $OSCAR",
@@ -133,6 +141,7 @@
         "token_symbol": "OSCARD5",
         "type": "insurance_pool",
         "category": "daily_launch",
+        "holders": 0,
         "insurance_bonus_tiers": {
             "top_50": "5x $OSCAR",
             "top_100": "4x $OSCAR",

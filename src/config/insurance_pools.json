@@ -5,7 +5,7 @@
         "token_symbol": "OSCARW1",
         "type": "insurance_pool",
         "category": "weekly_launch",
-        "holders": 47,
+        "holders": 62,
         "special": false,
         "insurance_bonus_tiers": {
             "top_50": "5x $OSCAR",

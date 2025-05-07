@@ -10,10 +10,13 @@ const getPresalePools = async (req, res) => {
     try {
         const publicPoolsPath = path.join(__dirname, '../../config/public_pools.json');
         const privatePoolsPath = path.join(__dirname, '../../config/private_pools.json');
+        const insurancePools = path.join(__dirname, '../../config/insurance_pools.json');
         const publicPoolsRawData = fs.readFileSync(publicPoolsPath);
         const privatePoolsRawData = fs.readFileSync(privatePoolsPath);
+        const insurancePoolsRawData = fs.readFileSync(insurancePools);
         const public_pools = JSON.parse(publicPoolsRawData);
         const private_pools = JSON.parse(privatePoolsRawData);
+        const insurance_pools = JSON.parse(insurancePoolsRawData);
         const sol_usd_price = await getTokenPrice(SOLANA_MINT_ADDRESS);
 
         const updatedPools = await Promise.all(
@@ -74,7 +77,7 @@ const getPresalePools = async (req, res) => {
                 }
             })
         );
-        res.status(200).json([...updatedPools, ...private_pools]);
+        res.status(200).json([...updatedPools, ...private_pools, ...insurance_pools]);
     } catch (err) {
         console.error('Error loading presales:', err.message);
         res.status(500).json({ error: 'Failed to load presales.' });

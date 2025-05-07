@@ -18,6 +18,54 @@
     {
         "contract_address": "",
         "token_name": "Oscar Anti-Rug Policy 1",
+        "token_symbol": "OSCARW2",
+        "type": "insurance_pool",
+        "category": "weekly_launch",
+        "insurance_bonus_tiers": {
+            "top_50": "5x $OSCAR",
+            "top_100": "4x $OSCAR",
+            "top_350": "3x $OSCAR",
+            "everyone_else": "2x $OSCAR"
+        },
+        "token_status": "pending",
+        "launch_date": "2025-05-12T18:00",
+        "cover_image": "OscarW2"
+    },
+    {
+        "contract_address": "",
+        "token_name": "Oscar Anti-Rug Policy 1",
+        "token_symbol": "OSCARW3",
+        "type": "insurance_pool",
+        "category": "weekly_launch",
+        "insurance_bonus_tiers": {
+            "top_50": "5x $OSCAR",
+            "top_100": "4x $OSCAR",
+            "top_350": "3x $OSCAR",
+            "everyone_else": "2x $OSCAR"
+        },
+        "token_status": "pending",
+        "launch_date": "2025-05-19T18:00",
+        "cover_image": "OscarW3"
+    },
+    {
+        "contract_address": "",
+        "token_name": "Oscar Anti-Rug Policy 1",
+        "token_symbol": "OSCARW4",
+        "type": "insurance_pool",
+        "category": "weekly_launch",
+        "insurance_bonus_tiers": {
+            "top_50": "5x $OSCAR",
+            "top_100": "4x $OSCAR",
+            "top_350": "3x $OSCAR",
+            "everyone_else": "2x $OSCAR"
+        },
+        "token_status": "pending",
+        "launch_date": "2025-05-26T18:00",
+        "cover_image": "OscarW4"
+    },
+    {
+        "contract_address": "",
+        "token_name": "Oscar Anti-Rug Policy 1",
         "token_symbol": "OSCARD1",
         "type": "insurance_pool",
         "category": "daily_launch",

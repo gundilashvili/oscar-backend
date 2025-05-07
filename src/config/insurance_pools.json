@@ -13,7 +13,7 @@
             "everyone_else": "2x $OSCAR"
         },
         "token_status": "active",
-        "launch_date": "2025-05-05T18:00",
+        "launch_date": "2025-05-05T22:00",
         "cover_image": "OscarW1"
     },
     {
@@ -30,7 +30,7 @@
             "everyone_else": "2x $OSCAR"
         },
         "token_status": "pending",
-        "launch_date": "2025-05-12T18:00",
+        "launch_date": "2025-05-12T22:00",
         "cover_image": "OscarW2"
     },
     {
@@ -47,7 +47,7 @@
             "everyone_else": "2x $OSCAR"
         },
         "token_status": "pending",
-        "launch_date": "2025-05-19T18:00",
+        "launch_date": "2025-05-19T22:00",
         "cover_image": "OscarW3"
     },
     {
@@ -64,7 +64,7 @@
             "everyone_else": "2x $OSCAR"
         },
         "token_status": "pending",
-        "launch_date": "2025-05-26T18:00",
+        "launch_date": "2025-05-26T22:00",
         "cover_image": "OscarW4"
     },
     {
@@ -81,7 +81,7 @@
             "everyone_else": "2x $OSCAR"
         },
         "token_status": "pending",
-        "launch_date": "2025-05-06T18:00",
+        "launch_date": "2025-05-07T22:00",
         "cover_image": "OscarD1"
     },
     {
@@ -98,7 +98,7 @@
             "everyone_else": "2x $OSCAR"
         },
         "token_status": "pending",
-        "launch_date": "2025-05-07T18:00",
+        "launch_date": "2025-05-08T22:00",
         "cover_image": "OscarD2"
     },
     {
@@ -115,7 +115,7 @@
             "everyone_else": "2x $OSCAR"
         },
         "token_status": "pending",
-        "launch_date": "2025-05-08T18:00",
+        "launch_date": "2025-05-09T22:00",
         "cover_image": "OscarD3"
     },
     {
@@ -132,7 +132,7 @@
             "everyone_else": "2x $OSCAR"
         },
         "token_status": "pending",
-        "launch_date": "2025-05-09T18:00",
+        "launch_date": "2025-05-10T22:00",
         "cover_image": "OscarD4"
     },
     {
@@ -149,7 +149,7 @@
             "everyone_else": "2x $OSCAR"
         },
         "token_status": "pending",
-        "launch_date": "2025-05-10T18:00",
+        "launch_date": "2025-05-11T22:00",
         "cover_image": "OscarD5"
     }
 ]

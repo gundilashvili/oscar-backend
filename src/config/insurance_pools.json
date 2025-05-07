@@ -35,7 +35,7 @@
         "token_status": "pending",
         "launch_date": "2025-05-07T10:00",
         "cover_image": "OscarD1",
-        "coverage_period":  "05/07/25"
+        "coverage_period":  "05/07/2025"
     },
     {
         "contract_address": "",
@@ -54,7 +54,7 @@
         "token_status": "pending",
         "launch_date": "2025-05-08T10:00",
         "cover_image": "OscarD2",
-        "coverage_period":  "05/08/25"
+        "coverage_period":  "05/08/2025"
     },
     {
         "contract_address": "",
@@ -73,7 +73,7 @@
         "token_status": "pending",
         "launch_date": "2025-05-09T10:00",
         "cover_image": "OscarD3",
-        "coverage_period":  "05/09/25"
+        "coverage_period":  "05/09/2025"
     },
     {
         "contract_address": "",
@@ -92,7 +92,7 @@
         "token_status": "pending",
         "launch_date": "2025-05-10T10:00",
         "cover_image": "OscarD4",
-        "coverage_period":  "05/10/25"
+        "coverage_period":  "05/10/2025"
     },
     {
         "contract_address": "",
@@ -111,6 +111,6 @@
         "token_status": "pending",
         "launch_date": "2025-05-11T10:00",
         "cover_image": "OscarD5",
-        "coverage_period":  "05/11/25"
+        "coverage_period":  "05/11/2025"
     }
 ]

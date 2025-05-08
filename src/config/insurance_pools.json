@@ -38,12 +38,12 @@
         "coverage_period":  "05/07/2025"
     },
     {
-        "contract_address": "",
+        "contract_address": "DJm8QYhMBdGcuDitHoGsbCAJJvoMy1SWrJ2H5HBjpump",
         "token_name": "Oscar Anti-Rug Policy 2",
         "token_symbol": "OSCARD2",
         "type": "insurance_pool",
         "category": "daily_launch",
-        "holders": 0,
+        "holders": 15,
         "special": true,
         "insurance_bonus_tiers": {
             "top_50": "5x $OSCAR",
@@ -51,9 +51,9 @@
             "top_350": "3x $OSCAR",
             "everyone_else": "2x $OSCAR"
         },
-        "token_status": "pending",
+        "token_status": "active",
         "launch_date": "2025-05-08T08:00",
-        "cover_image": "OscarD2",
+        "cover_image": "OscarD2Launched",
         "coverage_period":  "05/08/2025"
     },
     {

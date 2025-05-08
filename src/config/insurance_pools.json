@@ -43,7 +43,7 @@
         "token_symbol": "OSCARD2",
         "type": "insurance_pool",
         "category": "daily_launch",
-        "holders": 15,
+        "holders": 21,
         "special": true,
         "insurance_bonus_tiers": {
             "top_50": "5x $OSCAR",
